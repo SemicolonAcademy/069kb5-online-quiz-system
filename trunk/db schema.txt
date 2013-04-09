@@ -1,0 +1,43 @@
+quiz:
+
+- users  
+  - user_type field (admin / user) 
+
+- settings
+   - id
+   - points_per_q
+   - time_per_q
+   - site_name
+   - site_slogan
+   - developer_info     
+  
+score:
+   - id
+   - user_id
+   - question_id
+   - user_answer
+   - points 
+  
+  
+- questions
+  - id
+  - category_id
+  - question
+  - option1
+  - option2
+  - option3
+  - option4
+  - answer      
+  
+- question_category (subjects)
+   - id 
+   - name
+
+   
+   id   name
+   -------------
+   1   sports
+   2   history
+   3   media
+   
+
