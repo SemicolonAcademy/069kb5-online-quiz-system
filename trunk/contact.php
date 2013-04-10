@@ -27,12 +27,17 @@
 <input type="button" value="About Us" name="aboutus" class="button"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="button"/></a>
+<a href="Our Team">
+<input type="button" value="Our Team" name="Our Team" class="button"/></a>
 </div>
 </div>
 
 <div id="headerpan">
 
-<font size="6">Contact</font>
+<font size="8">Drezon Information Desk</font></br>
+<font size="4">we are automated,energetic,work loving,career oriented life spakers.
+contact us for free at our front desk.</font> 
+<p><a href="drezon.com.np">DREZON</a></P>
 </div>
 <div id="footerdown">
 <div id="footerpan">
@@ -43,6 +48,8 @@
 <input type="button" value="About Us" name="aboutus" class="footerbutton"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="footerbutton"/></a>
+<a href="Our Team.php">
+<input type="button" value="Our Team" name="Our Team" class="footerbutton"/></a>
 <a href="developer.php">
 <input type="button" value="Developer" name="developer" class="footerbutton"/></a>
 <a href="privacy.php">
