@@ -27,39 +27,35 @@
 <input type="button" value="About Us" name="aboutus" class="button"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="button"/></a>
+<a href="Our Team">
+<input type="button" value="Our Team" name="Our Team" class="button"/></a>
 </div>
 </div>
 
 <div id="headerpan">
 
-<font size="6">Welcome</font> to the information era! <p>Various categories as subjects are defined in this site based on which you can test your ability.
- You can select your desired subject for which 10 questions are been provided each of <b>10 points</b>. The way of answering the question is select/click 
- the right option been provided to you on the screen. You will have <b>60 seconds</b> to answer the question. In case of not being able to answer in 
- <b>60 seconds</b> time interval, you will lose the points and next question will be assigned. 
+<font size="8">Welcome</font><span> to the information era! <p>Various categories as subjects are defined in this site based on which you can test your ability.
+ </span><span>You can select your desired subject for which 10 questions are been provided each of <b>10 points</b>. The way of answering the question is select/click 
+ the right option been provided to you on the screen. You will have </span><b><span>60 seconds</b> to answer the question. In case of not being able to answer in 
+ <b>60 seconds</b> time interval, you will lose the points and next question will be assigned.</span></b> 
  <div id="image1">
 <img src="images/image1.png" id="image1"/>
 </div>
  <div id="userarea">
 <h3><u><b>Test Yourself! Jump Start</u></b></h3>
-The only way joining the interesting onine quiz is to register. To register, you are kindly requested to fill uo the following form.<br>
-<abbr title="Fill up the form to register">
-<table>
+<font size=5>Already member!</font>Log In
+
+
 <form method="POST" action="testpage.php">
-<tr><td>Username:-</td><td><input type="text" size="30" name="name"/></td></tr>
-<tr><td>E-Mail:-</td><td><input type="text" size="30" name="email"/></td></tr>
-<tr><td>Password:-</td><td><input type="password" size="30" name="password"/></td>
-<td><input type="submit" value="Register" /></td></tr>
-</form>
-</table></abbr>
-<font size=5>Already member!</font> You need to log in your profile<br>
+<b>Email or Username</b></br>
+<input type="text" name="Username" value=""><br>
+<b>password</b></br>
+<input type="text" name="Password" value=""><br>
+Not a member yet??<a href="regfom.php"><style="normal" type="button">Register Here</a></br>
 <abbr title="Fill up the form to Log in">
-<table>
-<form method="POST" action="testpage.php">
-<tr><td>Username:-</td><td><input type="text" size="30" name="username"/></td></tr>
-<tr><td>Password:-</td><td><input type="password" size="30" name="password"/></td>
-<td><input type="submit" value="Log In" /></td></tr>
-</form>
-</table></abbr></div>
+
+<td><align="centre"><input type="submit" value="Log In" /></td></tr>
+</abbr></form></div>
 </div><br><br>
 <div id="footerdown">
 <div id="footerpan">
@@ -70,6 +66,10 @@ The only way joining the interesting onine quiz is to register. To register, you
 <input type="button" value="About Us" name="aboutus" class="footerbutton"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="footerbutton"/></a>
+<a href="Our Team.php">
+<input type="button" value="Our Team" name="Our Team" class="footerbutton"/></a>
+
+
 <a href="developer.php">
 <input type="button" value="Developer" name="developer" class="footerbutton"/></a>
 <a href="privacy.php">

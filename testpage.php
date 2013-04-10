@@ -40,6 +40,8 @@ return false;}
 <input type="button" value="About Us" name="aboutus" class="button"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="button"/></a>
+<a href="Our Team.php">
+<input type="button" value="Our Team" name="Our Team" class="button"/></a>
 </div>
 </div>
 
@@ -105,12 +107,15 @@ echo "</font><br>Welcome to your database.";?>
 <input type="button" value="About Us" name="aboutus" class="footerbutton"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="footerbutton"/></a>
+<a href="Our Team.php">
+<input type="button" value="Our Team" name="Our Team" class="footerbutton"/></a>
 <a href="developer.php">
 <input type="button" value="Developer" name="developer" class="footerbutton"/></a>
 <a href="privacy.php">
 <input type="button" value="Privacy" name="privacy" class="footerbutton"/></a>
 <br>
-&copy Copyright DREZON.com Pvt. Ltd.	<br>All Rights Reserved
+&copy Copyright DREZON.com Pvt. Ltd.	<br>
+All Rights Reserved
 </center></div></div>
 
 </div>

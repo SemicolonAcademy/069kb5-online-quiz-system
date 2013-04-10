@@ -26,13 +26,15 @@
 <input type="button" value="About Us" name="aboutus" class="button"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="button"/></a>
+<a href="Our Team"</a>
+<input type="button" value="Our Team" name="Our Team" class="button"/></a>
 </div>
 </div>
 
 <div id="headerpan">
 
 <font size="6">About Us</font> <p>
-<b>    DREZON.com</B> is a group of energetic learners, exprimenters, innovators as well as creative individuals. 
+<b>DREZON.com</B> is a group of energetic learners, exprimenters, innovators as well as creative individuals. 
 We are proficient on varoius web designing and developing tools. We provide up-to-date technology to enhance your needs. With the competitive 
 and challenging world, we have unique way of thinking to fuffill your demand.
 
@@ -49,6 +51,10 @@ and challenging world, we have unique way of thinking to fuffill your demand.
 <input type="button" value="About Us" name="aboutus" class="footerbutton"/></a>
 <a href="contact.php">
 <input type="button" value="Contact" name="contact" class="footerbutton"/></a>
+<a href="Our Team.php">
+<input type="button" value="Our Team" name="Our Team" class="footerbutton"/></a>
+
+
 <a href="developer.php">
 <input type="button" value="Developer" name="developer" class="footerbutton"/></a>
 <a href="privacy.php">
