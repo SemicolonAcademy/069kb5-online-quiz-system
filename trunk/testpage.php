@@ -1,4 +1,4 @@
-<html><head><title></title></head>
+<html><head><title>Testpage</title></head>
 <style type="text/css">
 #wrapper{margin:0 auto;padding:0;background-color:efefef;background-image:"images/image1.png";}
 #headertop{background-color:BFBDF9;padding-top:5px;height:120px;}
@@ -109,8 +109,7 @@ echo "</font><br>Welcome to your database.";?>
 <input type="button" value="Contact" name="contact" class="footerbutton"/></a>
 <a href="Our Team.php">
 <input type="button" value="Our Team" name="Our Team" class="footerbutton"/></a>
-<a href="developer.php">
-<input type="button" value="Developer" name="developer" class="footerbutton"/></a>
+
 <a href="privacy.php">
 <input type="button" value="Privacy" name="privacy" class="footerbutton"/></a>
 <br>
